@@ -1,0 +1,18 @@
+{
+  "name": "pear-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark syntax theme based on pear-syntax.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "green",
+    "pear"
+  ],
+  "repository": "https://github.com/Niishi/pear-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
