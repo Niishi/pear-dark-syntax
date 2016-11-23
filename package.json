@@ -1,6 +1,6 @@
 {
   "name": "pear-dark-syntaxx",
-  "theme": "syntaxx",
+  "theme": "syntax",
   "version": "0.1.8",
   "description": "A dark syntax theme based on pear-syntax.",
   "keywords": [
